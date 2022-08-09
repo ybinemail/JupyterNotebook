@@ -1,0 +1,19 @@
+[[source]]
+url = "https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+numpy = "*"
+pandas = "*"
+install = "*"
+jupyter = "*"
+notebook = "*"
+flake8 = "*"
+ipykernel = "*"
+matplotlib = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
