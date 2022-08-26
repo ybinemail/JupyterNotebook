@@ -12,6 +12,7 @@ notebook = "*"
 flake8 = "*"
 ipykernel = "*"
 matplotlib = "*"
+scipy = "*"
 
 [dev-packages]
 
