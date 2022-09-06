@@ -13,6 +13,8 @@ flake8 = "*"
 ipykernel = "*"
 matplotlib = "*"
 scipy = "*"
+seaborn = "*"
+tushare = "*"
 
 [dev-packages]
 
